@@ -1,9 +1,5 @@
 # codebase-cartographer
-An open-source tool for automatically generating architectural audit reports for any Python codebase.
-
-# CodebaseAuditor
-
-A comprehensive Python tool for analyzing, mapping, and understanding codebases through automated static analysis and dependency visualization.
+A comprehensive open-source tool for automatically generating architectural audit reports for any Python codebase through automated static analysis, dependency visualization, and codebase mapping to deeply understand code structure.
 
 ## Overview
 
